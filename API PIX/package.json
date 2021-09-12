@@ -1,0 +1,23 @@
+{
+  "name": "api-pix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoddyDev/API-PIX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoddyDev/API-PIX/issues"
+  },
+  "homepage": "https://github.com/KoddyDev/API-PIX#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gpix": "^1.1.6"
+  }
+}
